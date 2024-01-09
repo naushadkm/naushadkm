@@ -4,6 +4,7 @@
 - 💬 Ask me about Front End Technologies
 - 📫 How to reach me: nkm.html@gmail.com
 - 😄 Pronouns: He/Him
+- 🌱 Buy me a coffee https://www.buymeacoffee.com/naushadkm
 
 <!--
 **naushadkm/naushadkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
